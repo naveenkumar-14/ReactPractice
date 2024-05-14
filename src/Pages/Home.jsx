@@ -4,7 +4,7 @@ const Home=()=>{
 
   return(
     <div>
-      This is Home Page
+      This is Home Page in react
     </div>
   )
 }

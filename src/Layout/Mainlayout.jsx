@@ -5,7 +5,7 @@ const Mainlayout=()=>{
   return(
     <div>
       <div className='Header' style={{height:'50px',backgroundColor:'beige',}}>
-        Header
+        Header Page
       </div>
     </div>
   )
