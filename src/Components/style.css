@@ -1,0 +1,38 @@
+.container{
+  width: 100%;
+  height: 120px;
+  padding-left: 120px;
+  padding-right: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  box-shadow: rgba(0,0,0,8.16) 0px 1px 4px;
+}
+#navItems{
+  display: flex;
+  column-gap: 60px;
+}
+#navItems > text{
+  font-size: 18px;
+  font-weight: 400;
+}
+#buttonItems{
+  display: flex;
+}
+#buttonItems>text{
+  font-size: 18px;
+  font-weight: 400;
+}
+#buttonItems>button{
+  font-size: 18px;
+  font-weight: 400;
+}
+
+
+.Hero{ 
+  width: Hug (729px)px;
+  height: Hug (346px)px;
+  gap: 24px;
+  opacity: 0px;
+  display: flex;
+}
